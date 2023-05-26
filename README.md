@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there i'm Axel👋
+Soy un apasionado desarrollador web front-end y profesor de tecnología con experiencia en la creación de aplicaciones web interactivas y sitios web modernos. Me encanta combinar la estética visual con una experiencia de usuario fluida para entregar proyectos de alta calidad. Además, disfruto compartir mis conocimientos con otros y guiarlos en su viaje de aprendizaje en el desarrollo web front-end.
+
+Además de mi trabajo como desarrollador web front-end, también tengo experiencia como profesor de tecnología front-end. He tenido el privilegio de enseñar a estudiantes de diferentes niveles y ayudarles a adquirir habilidades sólidas en el desarrollo web. Disfruto compartir mis conocimientos y experiencias, y me apasiona ver cómo mis estudiantes crecen y se convierten en profesionales exitosos.
+
+También tengo habilidades sólidas en la enseñanza de tecnología front-end, incluyendo la capacidad de explicar conceptos complejos de manera clara y concisa, y adaptar mi enfoque a diferentes estilos de aprendizaje.
+
+Contacto
+¡Si deseas colaborar en un proyecto, aprender juntos o tienes alguna pregunta, no dudes en contactarme! Puedes encontrarme en los siguientes enlaces:
 
 <!--
 **AxelHB/AxelHB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
