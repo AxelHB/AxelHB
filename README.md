@@ -6,11 +6,11 @@ Soy un/a desarrollador/a apasionado/a por la tecnología, la resolución de prob
 
 ## 🚀 Sobre mí
 
-- 🔭 Actualmente estoy trabajando en: **[Nombre del proyecto o empresa]**
-- 🌱 Estoy aprendiendo: **[Lenguajes, tecnologías, herramientas]**
-- 💬 Pregúntame sobre: **[Temas de tu especialidad o que te interesen]**
+- 🔭 Actualmente estoy trabajando en: **GCBA**
+- 🌱 Estoy aprendiendo: **[IA]**
+- 💬 Pregúntame sobre: **[Mecánica de autos viejos, enseñanza.]**
 - 📫 Puedes contactarme en: **[Email, LinkedIn, Twitter, etc.]**
-- ⚡ Dato curioso: **[Algo interesante o divertido sobre ti]**
+- ⚡ Dato curioso: **[Tengo un Fiat 600]**
 
 ## 🛠️ Tecnologías y herramientas
 
@@ -25,13 +25,13 @@ Soy un/a desarrollador/a apasionado/a por la tecnología, la resolución de prob
 ## 📈 GitHub Stats
 
 <!-- Si no quieres mostrar tus estadísticas puedes borrar esta sección -->
-![TuNombre's GitHub stats](https://github-readme-stats.vercel.app/api?username=TuNombreDeUsuario&show_icons=true&theme=github_dark)
+![AxelHB](https://github-readme-stats.vercel.app/api?username=TuNombreDeUsuario&show_icons=true&theme=github_dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TuNombreDeUsuario&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📂 Proyectos Destacados
 
-- [🔗 Nombre del Proyecto](https://link-al-proyecto) - Descripción corta.
-- [🔗 Otro Proyecto](https://link-al-proyecto) - Descripción corta.
+- [🔗 Nombre del Proyecto](#) - Descripción corta.
+- [🔗 Otro Proyecto](#) - Descripción corta.
 
 ---
 
