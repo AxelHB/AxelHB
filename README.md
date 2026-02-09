@@ -72,9 +72,7 @@ Soy desarrollador Front-End y Educador, apasionado por la tecnología, la enseñ
 
 > Este portfolio es la evolución de mi anterior, mostrando los proyectos que estoy desarrollando y migrando a nuevas plataformas. Este año 2026 me propuse focalizar mi perfil y lanzar mis proyectos y cursos, siempre con vocación por la enseñanza y pasión por la tecnología.  
 
-- [📌 Proyecto Educativo Interactivo](https://tusitio.com) – App educativa con mapas, audio y enfoque EdTech. *(En desarrollo)*  
-- [📌 Sistema de Certificaciones](https://tusitio.com) – Plataforma con modales reutilizables y visualización de certificados. *(En desarrollo)*  
-- [📌 Próximo proyecto](https://tusitio.com) – Nuevo desarrollo en curso. *(Próximamente)*  
+- [📌 Proyecto En Desarrollo](https://tusitio.com) – App educativa con mapas, audio y enfoque EdTech. *(En desarrollo)*  
 
 ---
 
